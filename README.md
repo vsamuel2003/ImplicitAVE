@@ -1,1 +1,1 @@
-FILL LATER
+Each of the model files are currently set up to be run start to finish excluding the parts that are titled "Prompt Testing". The paths to the images directory, directory containing the datasets, and the path to where the results should be saved need to be set accordingly in each file.
